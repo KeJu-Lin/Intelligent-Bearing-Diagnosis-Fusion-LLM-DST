@@ -4,7 +4,7 @@
 2. 数据集构建
 3. 训练参数
 4. 文件介绍
-5. Autodl下载大模型教程配置
+5. Autodl下载huggingface大模型教程配置
 6. Colab下的CUDA配置和Pytorch
 7. ollama本地部署.gguf格式Model
 
